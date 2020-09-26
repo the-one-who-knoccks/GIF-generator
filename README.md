@@ -1,4 +1,4 @@
- <span align="center">:framed_picture: Gerador de gifs criado com React usando custom hooks e api do Giphy.</span>
+:framed_picture: Gerador de gifs criado com React usando custom hooks e api do Giphy.
  
 
 <h1 align="center">
